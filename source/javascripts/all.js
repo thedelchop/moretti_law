@@ -1,1 +1,15 @@
-//= require_tree .
+//= require jquery-1.9.1.min
+//= require jquery-ui-1.10.4
+//= require jquery-easing-1.3
+//= require modernizr
+//= require jquery.isotope.min
+//= require jquery.isotope.load.simple
+//= require jquery.pagescroller.lite
+//= require jquery.form
+//= require selectnav.min
+//= require inits
+//= require input.fields
+//= require image-cover
+//= require sliding
+//= require jquery.flexslider-min
+//= require jquery.fancybox.pack
